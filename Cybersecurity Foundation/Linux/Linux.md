@@ -10,3 +10,9 @@
 - [[Gentoo]] - source-based and highly customizable
 - [[Red Hat Enterprise Linux]] - enterprise-focused with commercial support
 
+## Linux for Cybersecurity
+
+- [[Kali Linux]] - for penetration testing and security auditing
+- [[Parrot OS]] - for security work with a lighter and more privacy - oriented feel 
+- [[Black Arch]] - for advanced users who want a huge Arch-based security toolkit
+- [[Tails]] - for privacy, anonymity, and safer use on untrusted computers

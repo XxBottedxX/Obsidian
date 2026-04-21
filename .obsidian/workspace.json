@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Linux"
             }
-          },
-          {
-            "id": "fc18a15c09603c43",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,12 +194,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc18a15c09603c43",
+  "active": "cf70867d2a6dca99",
   "lastOpenFiles": [
+    "Cybersecurity Foundation/Linux/Linux Depostitories/Depositories for Cybersecurity",
+    "Cybersecurity Foundation/Linux/Linux Depostitories/Depositories for Cybersecurity/Tails.md",
+    "Cybersecurity Foundation/Linux/Linux.md",
+    "Cybersecurity Foundation/Linux/Linux Depostitories/Depositories for Cybersecurity/Black Arch.md",
+    "Cybersecurity Foundation/Linux/Linux Depostitories/Depositories for Cybersecurity/Parrot OS.md",
+    "Cybersecurity Foundation/Linux/Linux Depostitories/Depositories for Cybersecurity/Kali Linux.md",
     "Cybersecurity Foundation/Linux/Linux Depostitories/Linux Mint.md",
     "Cybersecurity Foundation/Linux/Linux Depostitories/Ubuntu.md",
     "Cybersecurity Foundation/Linux/Linux Depostitories/Debian.md",
-    "Cybersecurity Foundation/Linux/Linux.md",
     "Cybersecurity Foundation/Linux/Linux Depostitories/Arch Linux.md",
     "Cybersecurity Foundation/Linux/Linux Depostitories/Red Hat Enterprise Linux.md",
     "Cybersecurity Foundation/Linux/Linux Depostitories/Gentoo.md",
