@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/hello.md",
+                "file": "new/hello.md",
                 "mode": "source",
                 "source": false
               },
@@ -212,7 +212,7 @@
   "active": "cf70867d2a6dca99",
   "lastOpenFiles": [
     "Cybersecurity Foundation/Linux/Command Line/pwd.md",
-    "test/hello.md",
+    "new/hello.md",
     "test",
     "README.md",
     "test.md",
