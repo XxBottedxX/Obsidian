@@ -16,3 +16,28 @@
 - [[Parrot OS]] - for security work with a lighter and more privacy - oriented feel 
 - [[Black Arch]] - for advanced users who want a huge Arch-based security toolkit
 - [[Tails]] - for privacy, anonymity, and safer use on untrusted computers
+
+## Command Line
+
+### The Shell
+
+	The shell is a powerful program that accepts your typed commands and passes them to the operating system to execute. If you've used a graphical user interface (GUI), you might have encountered applications like "Terminal" or "Consol".
+
+- [[pwd]] - Print word Directory
+- [[cd]] - Change Directory
+- [[ls]] - List Directories
+- [[touch]] 
+- [[file]]
+- [[cat]]
+- [[less]]
+- [[history]]
+- [[cp]] - copy
+- [[mv]] - move 
+- [[mkdir]] - Make Directory
+- [[rm]] - Remove
+- [[find]]
+- [[help]]
+- [[man]]
+- [[whatis]]
+- [[alias]]
+- [[exit]]
