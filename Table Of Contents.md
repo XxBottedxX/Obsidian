@@ -1,7 +1,7 @@
 
 
 
-## Foudations
+## Foundations
 
 - [[Networking]] 
 - [[Linux]]
