@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2026-04-23.md",
+                "file": "Table Of Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-23"
+              "title": "Table Of Contents"
             }
           }
         ]
@@ -197,9 +197,9 @@
   "active": "37fd2857fb1d464f",
   "lastOpenFiles": [
     "Ideas.md",
+    "Daily Notes/2026-04-23.md",
     "Cybersecurity Foundation/Languages/Languages.md",
     "Cybersecurity Foundation/Linux/Linux.md",
-    "Daily Notes/2026-04-23.md",
     "Cybersecurity Foundation/Languages/python.md",
     "Cybersecurity Foundation/Languages/Bash.md",
     "Words of Wisdom/Quotes.md",
