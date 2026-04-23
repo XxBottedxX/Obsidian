@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/Untitled.md",
+                "file": "test/hello.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "hello"
             }
           }
         ],
@@ -212,11 +212,11 @@
   "active": "cf70867d2a6dca99",
   "lastOpenFiles": [
     "Cybersecurity Foundation/Linux/Command Line/pwd.md",
-    "test/Untitled.md",
+    "test/hello.md",
     "test",
     "README.md",
     "test.md",
-    "Untitled",
+    "new",
     "Cybersecurity Foundation/Table Of Contents.md",
     "Cybersecurity Foundation/Languages/Shell.md",
     "Cybersecurity Foundation/Linux/Linux.md",
